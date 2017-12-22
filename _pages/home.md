@@ -10,22 +10,22 @@ header:
   _cta_label: "Join Our Network"
   _cta_url: "http://forum.beta-europe.org"
   caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
-excerpt: "Bringing Europeans Together Association Italia (BETA Italia) is a politically independent and non-profit association to support the organisation of European politics simulations in Italy."
+excerpt: "Bringing Europeans Together Association Poland (BETA Poland) is a politically independent and non-profit association to support the organisation of European politics simulations in Italy."
 
 intro_01:
   - title: Our Association
     image_path: /assets/images/beta-logo-600.png
-    alt: "Logo of BETA Italia"
+    alt: "Logo of BETA Poland"
     excerpt:
     |
-      The Bringing Europeans Together Association Italia (BETA Italia) is a young, politically independent and non-profit association founded in late 2016 by 7 young Europeans in Rome. BETA Italia now counts more than 40 members all across Italy and beyond.
+      The Bringing Europeans Together Association Poland (BETA Poland) is a young, politically independent and non-profit association founded in late 2016 by 7 young Europeans in Rome. BETA Poland now counts more than 40 members all across Italy and beyond.
     url: "/contact/"
-    btn_label: "People behind BETA Italia"
+    btn_label: "People behind BETA Poland"
     btn_class: "btn--primary"
 intro_02:
   - title: Our Mission
     image_path: /assets/images/AG tutti.jpg
-    alt: "Group Photo BETA Italia"
+    alt: "Group Photo BETA Poland"
     excerpt:
     |
       Our mission is to contribute to the development of a European consciousness among the youth and to spread knowledge and awareness about how the European Union works and what does it mean to be a European citizen.
@@ -38,7 +38,7 @@ intro_03:
     alt: "VeUMEU Group photo"
     excerpt:
     |
-      In order to achieve its goals, BETA Italia organises 3 different MEUs in Italy: Sapientia in Consilium (Rome), VeUMEU (Venice) and MiMEU (Milan). In addition we offer a project called “Insegnare la cittadinanza europea”, whose aim is to discuss the EU with high school students.
+      In order to achieve its goals, BETA Poland organises 3 different MEUs in Italy: Sapientia in Consilium (Rome), VeUMEU (Venice) and MiMEU (Milan). In addition we offer a project called “Insegnare la cittadinanza europea”, whose aim is to discuss the EU with high school students.
     _url: "/calendar/"
     _btn_label: "Conference Calendar"
     _btn_class: "btn--primary"
